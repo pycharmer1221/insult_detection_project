@@ -1,0 +1,20 @@
+
+
+normalize
+
+
+CountVectorizer
+TfidfVectorizer
+
+
+
+calssifiers to be used
+
+LogisticRegression
+RandomForestClassifier
+naive bayesian classification
+support vector machine classification
+
+
+//optional
+GradientBoostingClassifier
